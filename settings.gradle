@@ -1,0 +1,4 @@
+rootProject.name = "AndroidClient"
+include ':client'
+include ':protobuf'
+project(':protobuf').projectDir = new File(settingsDir, '../AndroidServer/protobuf')
