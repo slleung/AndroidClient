@@ -1,6 +1,6 @@
 # AndroidClient
 
-A client for the android remote control server.
+A client for the android remote control server. Also a playground for MVVM, Jetpack compose and all the new toys.
 
 Implemented:
 - Capture and send motion events.
